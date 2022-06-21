@@ -1,0 +1,7 @@
+BASE_URL = "https://www.btl.gov.il/Pages/default.aspx"
+CACL_URL = "https://www.btl.gov.il/Simulators/Pages/NifgaeyAvodaCalc.aspx"
+HOME_PAGE_TITLE = "דף הבית, הביטוח הלאומי"
+HURT_DATE = "25/01/1999"
+BRTH_DATE = "18/07/1990"
+WRONG_HURT_DATE = "40/01/3000"
+WRONG_BRTH_DATE = "20/07/4000"
